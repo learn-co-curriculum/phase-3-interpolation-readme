@@ -4,7 +4,7 @@
 
 - Interpolate variables into strings 
 
-## Instructions
+## Introduction
 
 We'll cover when and how to use string interpolation. 
 
