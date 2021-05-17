@@ -1,12 +1,12 @@
 # String Interpolation
 
-## Overview
+## Learning Goals
+
+- Interpolate variables into strings 
+
+## Instructions
 
 We'll cover when and how to use string interpolation. 
-
-## Objectives
-
-1. Interpolate variables into strings 
 
 
 ## When to Use String Interpolation 
